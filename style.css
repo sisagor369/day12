@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(10, 148, 33);
+}
+.one{
+    background-color: rgb(255, 81, 0);
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    position: absolute;
+    top: 35%;
+    left: 40%;
+float: left;
+}
+.con{
+    text-align: center;
+    margin: 81px;
+    color: yellow;
+}
+.two{
+    width: 100px;
+    height: 100vh;
+    background-image: linear-gradient(rgb(43, 155, 0), yellow);;
+    margin: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    text-align: center;
+    color: rgb(219, 74, 7);
+}
